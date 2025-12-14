@@ -1,0 +1,13 @@
+numpy
+matplotlib
+seaborn
+pandas
+scipy
+ipykernel
+qiskit[visualization]
+qiskit_aer
+qiskit_ibm_runtime
+colorama
+rustworkx
+networkx
+torch
